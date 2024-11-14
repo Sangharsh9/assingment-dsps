@@ -17,7 +17,7 @@ address=new char;
 int flag=0;
 if(flag==0) {
 cout<<"destructor is called"<<endl;
-falg=1;
+flag=1;
 }
 
 }
